@@ -4,6 +4,8 @@ A versatile utility to burn subtitles into videos. This tool is optimized for bo
 
 This project is an extension of the main [lector](https://github.com/shamiroxs/lector) project, which converts ebooks into audiobook videos.
 
+## peak
+![videoframe](./output/image.jpg)
 ## Features
 
 - **Subtitle Burning**: Burn `.json` subtitles into video files.
