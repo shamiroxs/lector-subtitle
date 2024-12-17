@@ -17,7 +17,7 @@ def run_script(script_name, interactive=False):
 
 if __name__ == "__main__":
     # Step 1: Execute open.py (interactive mode)
-    run_script("open.py", interactive=True)
+    #run_script("open.py", interactive=True)
     
     # Step 2: Execute video.py
     run_script("video.py")
@@ -25,9 +25,9 @@ if __name__ == "__main__":
     # Step 3: Execute integrate.py
     run_script("integrate.py")
 
-    run_script("permission.py")
+    #run_script("permission.py")
     
     # Step 4: Execute save.py
-    run_script("save.py")
+    #run_script("save.py")
 
     print("All scripts executed successfully.")
